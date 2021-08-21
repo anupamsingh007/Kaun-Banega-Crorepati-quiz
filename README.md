@@ -1,2 +1,7 @@
 # Kaun-Banega-Crorepati-quiz
- A KBC themed quiz app
+ 
+ # About 
+ A KBC themed quiz app made to quiz for fun.
+
+ # technologies used
+ nodejs and javascript
